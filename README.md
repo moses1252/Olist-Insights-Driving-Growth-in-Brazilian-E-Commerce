@@ -53,7 +53,7 @@ A star schema was implemented in Power BI for efficient analysis. The model cent
 - `f_orders[order_date]` → `dim_calendar[date]`
 - `dim_customers[customer_zip_code_prefix]` → `dim_geolocation[geolocation_zip_code_prefix]`
 
-*<!-- You can upload a screenshot of your model view here -->*
+![Dashboard](data_model.JPG)
 
 ### Exploratory Data Analysis
 
