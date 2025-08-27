@@ -18,7 +18,9 @@ This data analysis project explores the public Olist Brazilian E-Commerce datase
 
 To simulate a real-world business scenario, I collaborated with ChatGPT acting as a Product Manager to define objectives, KPIs, and reporting requirements. The entire process—from raw data to final dashboard—was completed independently, showcasing my ability to deliver a complete data project from start to finish. This project highlights my proficiency in data engineering, DAX, and building professional-grade dashboards in Power BI.
 
-*<!-- You can upload a screenshot and add the link here -->*
+![Dashboard](Delivery_Dashboard.JPG)
+
+![Dashboard](Sales_Dashboard.JPG)
 
 ### Data Sources
 **olist.zip** – The primary dataset used for this analysis is from Olist, the largest department store in Brazilian marketplaces. The dataset contains information on 100,000 orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allow viewing an order from multiple dimensions: order status, price, payment, freight performance, customer location, product attributes, and reviews.
